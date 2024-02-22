@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\bin\Debug\net8.0\01Conceitos.exe
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\bin\Debug\net8.0\01Conceitos.deps.json
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\bin\Debug\net8.0\01Conceitos.runtimeconfig.json
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\bin\Debug\net8.0\01Conceitos.dll
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\bin\Debug\net8.0\01Conceitos.pdb
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfo.cs
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.sourcelink.json
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.dll
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\refint\01Conceitos.dll
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.pdb
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\01Conceitos.genruntimeconfig.cache
+C:\Users\Diego\Documents\Dev\estudos_csharp\01Conceitos\obj\Debug\net8.0\ref\01Conceitos.dll
