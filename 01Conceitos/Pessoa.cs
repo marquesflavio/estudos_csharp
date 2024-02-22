@@ -3,7 +3,7 @@ using System;
 //classe é um "molde", algo abstrato/genérico.
 class Pessoa
 {
-    //Atributos (características)
+    //Atributos (características que o objeto por ter)
     public string? nome;
     public int idade;
     public string? profissao;
