@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\bin\Debug\net8.0\02Metodos.exe
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\bin\Debug\net8.0\02Metodos.deps.json
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\bin\Debug\net8.0\02Metodos.runtimeconfig.json
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\bin\Debug\net8.0\02Metodos.dll
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\bin\Debug\net8.0\02Metodos.pdb
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfo.cs
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.sourcelink.json
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.dll
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\refint\02Metodos.dll
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.pdb
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\02Metodos.genruntimeconfig.cache
+C:\Users\Diego\Documents\Dev\estudos_csharp\02Metodos\obj\Debug\net8.0\ref\02Metodos.dll

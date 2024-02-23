@@ -2,6 +2,7 @@ https://www.youtube.com/watch?v=4q3hzqFA8bo&list=PLWXw8Gu52TRKlAqSfkdhSTPtAfAcYk
 
 
 Class é um "molde", algo genérico, por exemplo: Pessoa, Empresa...
+Toda class começa com letra maiúscula
 
 Atributos são as características que esse molde pode ter, por ex: nome, idade....
 
