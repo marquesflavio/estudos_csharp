@@ -9,3 +9,4 @@ Atributos são as características que esse molde pode ter, por ex: nome, idade.
 Métodos são as funções.
 
 Existe a possibilidade de instanciar um objeto, que nada mais é do que criar um objeto a partir de um molde, herdando seus atributos e métodos.
+

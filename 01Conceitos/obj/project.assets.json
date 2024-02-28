@@ -8,25 +8,28 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Diego\\.nuget\\packages\\": {}
+    "C:\\Users\\FLAVIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\Documents\\Dev\\estudos_csharp\\01Conceitos\\01Conceitos.csproj",
+      "projectUniqueName": "C:\\Dev\\Projetos Flavio\\estudos_csharp\\01Conceitos\\01Conceitos.csproj",
       "projectName": "01Conceitos",
-      "projectPath": "C:\\Users\\Diego\\Documents\\Dev\\estudos_csharp\\01Conceitos\\01Conceitos.csproj",
-      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\Documents\\Dev\\estudos_csharp\\01Conceitos\\obj\\",
+      "projectPath": "C:\\Dev\\Projetos Flavio\\estudos_csharp\\01Conceitos\\01Conceitos.csproj",
+      "packagesPath": "C:\\Users\\FLAVIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Projetos Flavio\\estudos_csharp\\01Conceitos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FLAVIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/nextplustecnologia/24fa9d0e-ed9d-4c57-8384-96f070beaa98/_packaging/NextplusFramework/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -38,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
