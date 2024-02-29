@@ -16,3 +16,18 @@ Esconder o que não precisa ser mostrado. Ver código exemplo
 
 ## Herança
 A capacidade de um objeto herdar propriedades, métodos e eventos de outros objetos
+
+## Polimorfismo
+A capacidade de um objeto, método ou classe poder ter várias formas.
+
+## Modificadores de acesso
+No C# podemos adicionar modificadores que permitem métodos serem sobrescritos (virtual; na classe pai / override; na classe filha) deve haver Herança para isso acontecer.
+pai > public virtual void Pagar(){}
+filho > public override void Pagar(){}
+
+## Propriedades
+São uma forma de trabalhar ao invés de usar variáveis, tem um atalho no C# que é o prop.
+São aqueles com {get; set;}
+
+## Métodos
+Trazem tudo o que as funções já possuem e incrementam com os modificadores de acesso.
